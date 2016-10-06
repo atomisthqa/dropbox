@@ -1,0 +1,20 @@
+# generator info
+name: Python Library
+group: atomist-project-templates
+artifact: python-library
+version: 1.0.2
+
+# backing git repo
+repo: git@github.com:atomist-project-templates/python-library.git
+branch: master
+sha: 119f2e2f1d618576625ff094d4c848055780e985
+
+# parameter values
+description: My new project
+team-id: T1L0VDKJP
+user-id: U1L8JQMTJ
+org: atomisthqa
+version: 0.1.0
+project_name: dropbox
+visibility: public
+

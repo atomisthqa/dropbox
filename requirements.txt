@@ -1,0 +1,4 @@
+pytest==3.0.3
+pytest-cov==2.3.1
+Sphinx==1.4.8
+pycodestyle==2.0.0
